@@ -1,14 +1,13 @@
 rules:
-  - DOMAIN-SUFFIX,openai.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,files.oaiusercontent.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,ai.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,challenges.cloudflare.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,invoice.stripe.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,stripe.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,claude.ai,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,auth0.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,challenges.cloudflare.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,chatgpt.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,oaistatic.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,arkoselabs.com,"专线3x-新加坡1"
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,"专线3x-新加坡1"
+  - DOMAIN-SUFFIX,openai.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,files.oaiusercontent.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,ai.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,challenges.cloudflare.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,invoice.stripe.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,stripe.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,claude.ai,专线3x-新加坡1
+  - DOMAIN-SUFFIX,auth0.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,chatgpt.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,oaistatic.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,arkoselabs.com,专线3x-新加坡1
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,专线3x-新加坡1
