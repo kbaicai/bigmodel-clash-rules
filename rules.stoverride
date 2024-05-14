@@ -1,3 +1,6 @@
+name: 大模型访问
+desc: 在自动更新的配置文件上添加自定义规则
+
 rules:
   - DOMAIN-SUFFIX,openai.com,专线3x-新加坡1
   - DOMAIN-SUFFIX,files.oaiusercontent.com,专线3x-新加坡1
