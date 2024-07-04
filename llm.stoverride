@@ -15,4 +15,3 @@ rules:
   - DOMAIN-SUFFIX,arkoselabs.com,专线2.5x-新加坡1
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,专线2.5x-新加坡1
   - DOMAIN-SUFFIX,poe.com,专线2.5x-新加坡1
-  - MATCH,DIRECT
