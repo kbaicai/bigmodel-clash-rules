@@ -1,7 +1,7 @@
 name: AI服务规则覆写
 desc: 修改AI相关服务的代理规则
 
-rules:#!replace
+rules:
   - DOMAIN-SUFFIX,openai.com,专线2.5x-新加坡1
   - DOMAIN-SUFFIX,files.oaiusercontent.com,专线2.5x-新加坡1
   - DOMAIN-SUFFIX,ai.com,专线2.5x-新加坡1
